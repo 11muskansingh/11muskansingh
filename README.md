@@ -1,14 +1,12 @@
 <h1 align="center">🌟 Muskan Singh 🌟</h1>  
 <p align="center">  
-  <b>Full Stack Developer | AI Enthusiast | Problem Solver</b>  
+  <b>Full Stack Developer | AI Enthusiast | Competitive Programmer</b>  
 </p>  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=11muskansingh&label=Profile%20views&color=0e75b6&style=flat" alt="11muskansingh" /> </p>
 <p align="center">  
     <a href="https://leetcode.com/u/Muskan_parihar/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"></a>
   <a href="https://linkedin.com/in/muskan-singh-140137261/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>  
-  <a href="https://github.com/11muskansingh"><img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>  
   <a href="mailto:spariharmuskan1106@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>  
-  <img src="https://komarev.com/ghpvc/?username=11muskansingh&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>  
 
 ---
@@ -20,7 +18,10 @@
 🚀 Currently working on **[HireHub](https://github.com/11muskansingh/HireHub)**, a job-hunting platform.  
 👯 Looking to collaborate on **AI/ML and Full Stack projects**.  
 📫 Reach me at **spariharmuskan1106@gmail.com**.  
-🏆 Achievements:  
+
+---
+
+## 🏆 Achievements:  
 - Solved **700+ Problems** on LeetCode (Java).  
 - Top **10%** in LeetCode contests.  
 - **5⭐ in Problem Solving & Java** on Hackerrank.  
@@ -74,7 +75,7 @@
 
 <div align="center">  
   <img src="https://github-readme-stats.vercel.app/api?username=11muskansingh&show_icons=true&theme=tokyonight" alt="Muskan's GitHub Stats" />  
-  <img src="https://github-readme-streak-stats.vercel.app/?user=11muskansingh&theme=tokyonight" alt="Muskan's GitHub Streak" />
+<!--   <img src="https://github-readme-streak-stats.vercel.app/?user=11muskansingh&theme=tokyonight" alt="Muskan's GitHub Streak" /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=11muskansingh&layout=compact&theme=tokyonight" alt="Top Languages" />  
 </div>  
 
@@ -90,4 +91,4 @@
 
 ---
 
-> 🌱 *"The only limit to learning is your imagination. Let's keep growing together!"*
+> 🌱 *"Learning is the only thing the mind never exhausts, never fears, and never regrets!."*
