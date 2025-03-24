@@ -1,83 +1,92 @@
-# Hi, I'm Muskan Singh! 👋
-
-Welcome to my GitHub profile! I am an enthusiastic Full-Stack Developer passionate about innovative technologies and solving real-world problems through impactful projects.
-
----
-
-## 🌟 About Me
-- **🎓 Education:** Bachelor of Technology (CSE), Pranveer Singh Institute of Technology (2022 - 2026) | CGPA: 9.11/10 (Till 4th Semester)
-- **📍 Location:** Kanpur, Uttar Pradesh
-- **💌 Contact:** [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:spariharmuskan1106@gmail.com)
-
----
-
-## 🚀 Skills
-
-### Programming Languages
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=flat-square&logo=postgresql&logoColor=white)
-
-### Libraries/Frameworks
-![Node.js](https://img.shields.io/badge/Node.js-%2343853D.svg?style=flat-square&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)
-
-### Coursework
-- Data Structures and Algorithms
-- DBMS
-- Operating System
+<h1 align="center">🌟 Muskan Singh 🌟</h1>  
+<p align="center">  
+  <b>Full Stack Developer | AI Enthusiast | Problem Solver</b>  
+</p>  
+<p align="center">  
+    <a href="https://leetcode.com/u/Muskan_parihar/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"></a>
+  <a href="https://linkedin.com/in/muskan-singh-140137261/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>  
+  <a href="https://github.com/11muskansingh"><img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>  
+  <a href="mailto:spariharmuskan1106@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>  
+  <img src="https://komarev.com/ghpvc/?username=11muskansingh&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>  
 
 ---
 
-## 💻 Projects
+## ✨ About Me  
 
-### [YouView - Full-Stack YouTube Clone](https://github.com/11muskansingh/YouView)
-A video streaming platform with user authentication, video search, categorization, recommendations, video uploads, liking, commenting, and watch history management.
-- **Technologies Used:** Node.js, Express.js, MongoDB, React.js, Tailwind CSS
-
-### [HireHub - Job Hunt Platform](https://github.com/11muskansingh/HireHub)
-A platform for job seekers and recruiters with role-based authentication, job posting, profile management, and application tracking.
-- **Technologies Used:** Node.js, Express.js, MongoDB, React.js, Tailwind CSS
-
-### [Stone Paper Scissor Game](https://stone-paper-scissor-game-roan.vercel.app/)
-A fun User vs Computer game with replay options that determines winners based on established rules.
-- **Technologies Used:** HTML5, CSS3, JavaScript
-
----
-
-## 🏆 Achievements
-- Solved **600+ coding questions** on LeetCode (Java). [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/Muskan_parihar/)
-- **5-star ratings** in Problem-Solving and Java on HackerRank. [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/AI1B_2212370_MS)
-- School Topper in Intermediate with **95.25%**.
+👨‍🎓 **B.Tech in Computer Science & Engineering** from [Pranveer Singh Institute of Technology](https://psit.ac.in) (2022 - 2026).  
+🌱 Passionate about **Full Stack Development**, **AI**, and **Problem Solving**.  
+🚀 Currently working on **[HireHub](https://github.com/11muskansingh/HireHub)**, a job-hunting platform.  
+👯 Looking to collaborate on **AI/ML and Full Stack projects**.  
+📫 Reach me at **spariharmuskan1106@gmail.com**.  
+🏆 Achievements:  
+- Solved **700+ Problems** on LeetCode (Java).  
+- Top **10%** in LeetCode contests.  
+- **5⭐ in Problem Solving & Java** on Hackerrank.  
+- Scored **9.11 CGPA** (till 4th semester).  
 
 ---
 
-## 📜 Certifications
-- 🏅 **Comprehensive NodeJS Course** by Scaler (06/2024)
-- 🏅 **Comprehensive JavaScript Course** by Scaler (04/2024)
+## 🛠️ My Tech Stack  
+
+### 💻 Programming Languages  
+<p>  
+  <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white">  
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">  
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white">  
+  <img src="https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white">  
+  <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">  
+</p>  
+
+### 🚀 Frameworks & Tools  
+<p>  
+  <img src="https://img.shields.io/badge/-React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black">  
+  <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">  
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">  
+  <img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white">  
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">  
+  <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">  
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white">  
+</p>  
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 Featured Projects  
 
-![Muskan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=11muskansingh&show_icons=true&theme=radical)
+### 🎯 [HireHub](https://github.com/11muskansingh/HireHub)  
+**A Job Hunt Platform connecting recruiters & job seekers.**  
+- **Tech Stack**: Node.js, Express.js, MongoDB, React.js, Firebase, Redux, Tailwind CSS.  
+- Features: Role-based authentication, job posting, resume uploads, real-time updates.  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=11muskansingh&layout=compact&theme=radical)
+### 📽️ [YouView](https://github.com/11muskansingh/YouView)  
+**A Full-Stack YouTube Clone.**  
+- **Tech Stack**: Node.js, Express.js, MongoDB, React.js, Tailwind CSS.  
+- Features: Video uploads, search, comments, likes, and personalized recommendations.  
+
+### 🎮 [Stone Paper Scissor Game](https://github.com/11muskansingh/Stone-Paper-Scissor-game)  
+**Classic game implemented with JavaScript.**  
+- **Tech Stack**: HTML, CSS, JavaScript.  
 
 ---
 
-## 🌐 Connect with Me
+## 📊 GitHub Stats  
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://linkedin.com/in/muskan-singh-140137261/)
-[![GitHub](https://img.shields.io/badge/-GitHub-black)](https://github.com/11muskansingh)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-orange)](https://stone-paper-scissor-game-roan.vercel.app/)
+<div align="center">  
+  <img src="https://github-readme-stats.vercel.app/api?username=11muskansingh&show_icons=true&theme=tokyonight" alt="Muskan's GitHub Stats" />  
+  <img src="https://github-readme-streak-stats.vercel.app/?user=11muskansingh&theme=tokyonight" alt="Muskan's GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=11muskansingh&layout=compact&theme=tokyonight" alt="Top Languages" />  
+</div>  
 
 ---
 
-Thank you for visiting my profile! 🌟 Feel free to explore my repositories and reach out if you'd like to collaborate on exciting projects!
+## 🌐 Let's Connect  
 
+<p align="center">  
+  <a href="https://linkedin.com/in/muskan-singh-140137261/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>  
+  <a href="https://github.com/11muskansingh"><img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>  
+  <a href="mailto:spariharmuskan1106@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>  
+</p>  
+
+---
+
+> 🌱 *"The only limit to learning is your imagination. Let's keep growing together!"*
