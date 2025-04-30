@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./banner.png" alt="Muskan Singh Banner" width="100%" />
-</p>
-
 <h1 align="center">🌟 Muskan Singh 🌟</h1>  
 <p align="center">  
   <b>Full Stack Developer | AI Enthusiast | Competitive Programmer</b>  
