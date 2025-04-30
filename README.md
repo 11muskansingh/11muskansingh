@@ -4,7 +4,8 @@
 </p>  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=11muskansingh&label=Profile%20views&color=0e75b6&style=flat" alt="11muskansingh" /> </p>
 <p align="center">  
-    <a href="https://leetcode.com/u/Muskan_parihar/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"></a>
+  <a href="https://muskan-portfolio.netlify.app"><img src="https://img.shields.io/badge/-Portfolio-%23000000?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"></a>
+  <a href="https://leetcode.com/u/Muskan_parihar/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"></a>
   <a href="https://linkedin.com/in/muskan-singh-140137261/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>  
   <a href="mailto:spariharmuskan1106@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>  
 </p>  
@@ -53,6 +54,16 @@
   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white">   
 </p>  
 
+### 🧠 Python & ML Libraries
+
+<p>
+  <img src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+  <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/-Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white">
+  <img src="https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+  <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">
+</p>
+
 ---
 
 ## 🚀 Featured Projects  
@@ -80,6 +91,12 @@
 <!--   <img src="https://github-readme-streak-stats.vercel.app/?user=11muskansingh&theme=tokyonight" alt="Muskan's GitHub Streak" /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=11muskansingh&layout=compact&theme=tokyonight" alt="Top Languages" />  
 </div>  
+
+## 📈 GitHub Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=11muskansingh&theme=tokyo-night&hide_border=true" alt="GitHub Contribution Graph" />
+</div>
 
 ---
 
