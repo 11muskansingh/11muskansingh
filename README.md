@@ -10,7 +10,7 @@
   <a href="https://leetcode.com/u/Muskan_parihar/">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
   </a>
-  <a href="https://codolio.io/Muskan-Singh">
+  <a href="https://codolio.com/profile/muskan_parihar">
     <img src="https://img.shields.io/badge/-Codolio-0A66C2?style=for-the-badge&logo=bookstack&logoColor=white" alt="Codolio">
   </a>
   <a href="https://linkedin.com/in/muskan-singh-140137261/">
