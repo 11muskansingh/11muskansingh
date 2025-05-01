@@ -4,11 +4,22 @@
 </p>  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=11muskansingh&label=Profile%20views&color=0e75b6&style=flat" alt="11muskansingh" /> </p>
 <p align="center">  
-  <a href="https://portfoliomuskan.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-%23000000?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"></a>
-  <a href="https://leetcode.com/u/Muskan_parihar/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"></a>
-  <a href="https://linkedin.com/in/muskan-singh-140137261/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>  
-  <a href="mailto:spariharmuskan1106@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>  
-</p>  
+  <a href="https://portfoliomuskan.vercel.app/">
+    <img src="https://img.shields.io/badge/-Portfolio-%23000000?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio">
+  </a>
+  <a href="https://leetcode.com/u/Muskan_parihar/">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
+  </a>
+  <a href="https://codolio.io/Muskan-Singh">
+    <img src="https://img.shields.io/badge/-Codolio-0A66C2?style=for-the-badge&logo=bookstack&logoColor=white" alt="Codolio">
+  </a>
+  <a href="https://linkedin.com/in/muskan-singh-140137261/">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>  
+  <a href="mailto:spariharmuskan1106@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+</p> 
 
 ---
 
