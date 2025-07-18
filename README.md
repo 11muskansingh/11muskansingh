@@ -23,85 +23,103 @@
 
 ---
 
-## ✨ About Me  
+## ✨ About Me
 
-👨‍🎓 **B.Tech in Computer Science & Engineering** from [Pranveer Singh Institute of Technology](https://psit.ac.in) (2022 - 2026).  
-🌱 Passionate about **Full Stack Development**, **AI**, and **Problem Solving**.  
-🚀 Currently working on **[HireHub](https://github.com/11muskansingh/HireHub)**, a job-hunting platform.  
-👯 Looking to collaborate on **AI/ML and Full Stack projects**.  
-📫 Reach me at **spariharmuskan1106@gmail.com**.  
-
----
-
-## 🏆 Achievements:  
-- Solved **700+ Problems** on LeetCode (Java).  
-- Top **10%** in LeetCode contests.  
-- **5⭐ in Problem Solving & Java** on Hackerrank.  
-- Scored **9.11 CGPA** (till 4th semester).  
+🎓 **B.Tech (CSE)** from [Pranveer Singh Institute of Technology](https://psit.ac.in) (2022–2026) — **CGPA: 9.03/10** (Till 5th Sem)  
+💡 MERN Stack Developer & Data Science Learner  
+🚀 Currently working on real-world AI/ML projects and scalable web apps  
+🧠 Strong grasp on DSA, OOPs, OS, DBMS, CN  
+📬 Reach me at **spariharmuskan1106@gmail.com**
 
 ---
 
-## 🛠️ My Tech Stack  
+## 🏆 Achievements
 
-### 💻 Programming Languages  
+- 👑 Solved **1000+ coding problems** (Java)
+- 🏅 **Top 8%** on LeetCode (Rating: **1700+**)
+- 🟨 **5⭐ in Java** and **Problem Solving** on HackerRank
+- 🧾 Scored **95.25% in Intermediate**
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages & Databases  
 <p>  
-  <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white">  
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">  
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white">  
-  <img src="https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white">  
-  <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">  
-</p>  
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
 
 ### 🚀 Frameworks & Tools  
 <p>  
-  <img src="https://img.shields.io/badge/-React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black">  
-  <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">  
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">  
-  <img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white">  
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">  
-  <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">  
-  <img src="https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white">  
-  <img src="https://img.shields.io/badge/-Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white">  
-  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white">   
-</p>  
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
 
-### 🧠 Python & ML Libraries
-
+### 🧠 ML & Data Science  
 <p>
-  <img src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
-  <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
-  <img src="https://img.shields.io/badge/-Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white">
-  <img src="https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
-  <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 </p>
 
 ---
 
-## 🚀 Featured Projects  
+## 🚀 Featured Projects
 
 ### 🎯 [HireHub](https://github.com/11muskansingh/HireHub)  
-**A Job Hunt Platform connecting recruiters & job seekers.**  
-- **Tech Stack**: Node.js, Express.js, MongoDB, React.js, Firebase, Redux, Tailwind CSS.  
-- Features: Role-based authentication, job posting, resume uploads, real-time updates.  
+A role-based job portal for recruiters and job seekers.  
+🔧 Node.js, Express.js, MongoDB, React.js, Redux, Firebase, Tailwind CSS  
+📌 Features: Authentication, job posting, resume uploads, application tracking  
+🔗 [Live Site](https://hirehub-gz47.onrender.com)
 
 ### 📽️ [YouView](https://github.com/11muskansingh/YouView)  
-**A Full-Stack YouTube Clone.**  
-- **Tech Stack**: Node.js, Express.js, MongoDB, React.js, Tailwind CSS.  
-- Features: Video uploads, search, comments, likes, and personalized recommendations.  
+A YouTube clone with personalized engagement.  
+🔧 Node.js, Express.js, MongoDB, React.js, Tailwind CSS  
+📌 Features: Uploads, comments, likes, history, search  
+🔗 [Live Site](https://you-view-teal.vercel.app/)
 
-### 🎮 [Stone Paper Scissor Game](https://github.com/11muskansingh/Stone-Paper-Scissor-game)  
-**Classic game implemented with JavaScript.**  
-- **Tech Stack**: HTML, CSS, JavaScript.  
+### 🧠 [Machine & Deep Learning Projects](https://github.com/11muskansingh/Machine-and-Deep-Learning)  
+Fake news classifier (LSTM), regression models, XGBoost, etc.  
+📌 Tools: Python, TensorFlow, Scikit-learn, EDA, Kaggle datasets  
+💡 Accuracy up to 90% on real-world problems
 
 ---
 
-## 📊 GitHub Stats  
+## 📜 Certifications
 
-<div align="center">  
-  <img src="https://github-readme-stats.vercel.app/api?username=11muskansingh&show_icons=true&theme=tokyonight" alt="Muskan's GitHub Stats" />  
-<!--   <img src="https://github-readme-streak-stats.vercel.app/?user=11muskansingh&theme=tokyonight" alt="Muskan's GitHub Streak" /> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=11muskansingh&layout=compact&theme=tokyonight" alt="Top Languages" />  
-</div>  
+- 🧠 **AI Agents Fundamentals** – Hugging Face (06/2025)  
+- ☁️ **AgentBlazer Champion** – Salesforce (05/2025)  
+- 📊 **Python for Data Science** – IBM (06/2025)  
+- ☕ **Java Certificate** – HackerRank (01/2025)  
+
+---
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=11muskansingh&show_icons=true&theme=radical&rank_icon=github" alt="Muskan's GitHub Stats" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=11muskansingh&theme=flames&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=11muskansingh&layout=donut&theme=radical" alt="Top Languages" />
+</div>
+
+---
 
 ## 📈 GitHub Contribution Graph
 
