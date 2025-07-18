@@ -79,22 +79,45 @@
 
 ## 🚀 Featured Projects
 
-### 🎯 [HireHub](https://github.com/11muskansingh/HireHub)  
-A role-based job portal for recruiters and job seekers.  
-🔧 Node.js, Express.js, MongoDB, React.js, Redux, Firebase, Tailwind CSS  
-📌 Features: Authentication, job posting, resume uploads, application tracking  
-🔗 [Live Site](https://hirehub-gz47.onrender.com)
+---
 
-### 📽️ [YouView](https://github.com/11muskansingh/YouView)  
-A YouTube clone with personalized engagement.  
-🔧 Node.js, Express.js, MongoDB, React.js, Tailwind CSS  
-📌 Features: Uploads, comments, likes, history, search  
-🔗 [Live Site](https://you-view-teal.vercel.app/)
+### 🎯 [**HireHub**](https://github.com/11muskansingh/HireHub)  
+**A role-based job hunt platform connecting recruiters and job seekers**  
+🔗 [Live Demo](https://hirehub-gz47.onrender.com)  
+🔧 **Tech Stack**: React.js, Node.js, Express.js, MongoDB, Redux, Firebase, Tailwind CSS
 
-### 🧠 [Machine & Deep Learning Projects](https://github.com/11muskansingh/Machine-and-Deep-Learning)  
-Fake news classifier (LSTM), regression models, XGBoost, etc.  
-📌 Tools: Python, TensorFlow, Scikit-learn, EDA, Kaggle datasets  
-💡 Accuracy up to 90% on real-world problems
+#### 📌 Key Features:
+- 👤 **Role-based authentication** using Firebase (Recruiter & Job Seeker)
+- 🧾 Recruiters can **post jobs**, **view applicants**, and **shortlist candidates**
+- 📁 Job Seekers can **apply for jobs**, **upload resumes**, and **track applications**
+- 🔐 Backend APIs follow **REST principles**, JWT security, and input validation
+- 🔄 Real-time updates with Firebase & frontend state sync
+
+---
+
+### 📽️ [**YouView**](https://github.com/11muskansingh/YouView)  
+**A scalable YouTube clone with core streaming features**  
+🔗 [Live Demo](https://you-view-teal.vercel.app/)  
+🔧 **Tech Stack**: React.js, Node.js, Express.js, MongoDB, Tailwind CSS
+
+#### 📌 Key Features:
+- 🎥 **Upload, search, and stream videos**
+- 📌 Implements **comments**, **likes**, and **video history**
+- 🧠 Adds **personalized recommendations** based on watch data
+- 📂 Uses Cloudinary for media hosting and Multer for file handling
+- ⚡ Clean UI with **responsive design** and optimized performance
+
+---
+
+### 🧠 [**Machine & Deep Learning Projects**](https://github.com/11muskansingh/Machine-and-Deep-Learning)  
+**Collection of real-world ML models built on Kaggle datasets**  
+🔧 **Tech Stack**: Python, NumPy, pandas, Matplotlib, Scikit-learn, TensorFlow
+
+#### 📌 Key Models:
+- 📰 **Fake News Classifier** using RNN & LSTM (TensorFlow)
+- 📊 **Regression & Classification** models: Linear, Logistic, KNN, XGBoost, Random Forest, Gradient Boosting
+- 🔍 Performed **EDA, feature engineering**, and model evaluation
+- 💯 Achieved **80–90%+ accuracy** in various supervised tasks
 
 ---
 
@@ -109,14 +132,24 @@ Fake news classifier (LSTM), regression models, XGBoost, etc.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=11muskansingh&show_icons=true&theme=radical&rank_icon=github" alt="Muskan's GitHub Stats" />
+
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=11muskansingh&show_icons=true&theme=radical&rank_icon=github&custom_title=Muskan%27s%20GitHub%20Stats" width="48%" alt="GitHub Stats" />
+
+  <!-- Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=11muskansingh&theme=flames&date_format=M%20j%5B%2C%20Y%5D&border=DD2727" width="48%" alt="GitHub Streak" />
+
+  <!-- Top Languages (Donut Layout) -->
   <br/>
-  <img src="https://streak-stats.demolab.com?user=11muskansingh&theme=flames&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=11muskansingh&layout=donut&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=11muskansingh&layout=donut&theme=radical&hide=css,html&langs_count=6" width="50%" alt="Top Languages by Donut" />
+
+  <!-- GitHub Contribution Snake Animation -->
+  <br/><br/>
+  <img src="https://raw.githubusercontent.com/11muskansingh/11muskansingh/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+
 </div>
 
 ---
