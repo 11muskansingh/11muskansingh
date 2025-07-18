@@ -145,11 +145,6 @@
   <!-- Top Languages (Donut Layout) -->
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=11muskansingh&layout=donut&theme=radical&hide=css,html&langs_count=6" width="50%" alt="Top Languages by Donut" />
-
-  <!-- GitHub Contribution Snake Animation -->
-  <br/><br/>
-  <img src="https://raw.githubusercontent.com/11muskansingh/11muskansingh/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-
 </div>
 
 ---
