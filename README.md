@@ -26,7 +26,7 @@
 ## ✨ About Me
 
 🎓 **B.Tech (CSE)** from [Pranveer Singh Institute of Technology](https://psit.ac.in) (2022–2026) — **CGPA: 9.03/10** (Till 5th Sem)  
-💡 MERN Stack Developer & Data Science Learner
+💡 MERN Stack Developer & Data Science Learner                                                                                                                     
 💻 **Backend Developer** with focus on **Spring Boot**  
 🚀 Building **scalable RESTful APIs**, secure authentication flows, and production-ready web applications  
 🧠 Strong grasp on **DSA, OOPs, OS, DBMS, Computer Networks**  
@@ -161,14 +161,6 @@
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=11muskansingh&layout=donut&theme=radical&langs_count=6" width="50%" />
 
-</div>
-
----
-
-## 📈 GitHub Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=11muskansingh&theme=tokyo-night&hide_border=true" />
 </div>
 
 ---
