@@ -1,6 +1,6 @@
 <h1 align="center">🌟 Muskan Singh 🌟</h1>  
 <p align="center">  
-  <b>Full Stack Developer | AI Enthusiast | Competitive Programmer</b>  
+  <b>Full Stack Developer | Spring Boot | AI Enthusiast | Competitive Programmer</b>  
 </p>  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=11muskansingh&label=Profile%20views&color=0e75b6&style=flat" alt="11muskansingh" /> </p>
 <p align="center">  
@@ -26,21 +26,40 @@
 ## ✨ About Me
 
 🎓 **B.Tech (CSE)** from [Pranveer Singh Institute of Technology](https://psit.ac.in) (2022–2026) — **CGPA: 9.03/10** (Till 5th Sem)  
-💡 MERN Stack Developer & Data Science Learner  
-🚀 Currently working on real-world AI/ML projects and scalable web apps  
-🧠 Strong grasp on DSA, OOPs, OS, DBMS, CN  
+💡 MERN Stack Developer & Data Science Learner
+💻 **Backend Developer** with focus on **Spring Boot**  
+🚀 Building **scalable RESTful APIs**, secure authentication flows, and production-ready web applications  
+🧠 Strong grasp on **DSA, OOPs, OS, DBMS, Computer Networks**  
+🤖 Actively working on **AI/ML and data-driven projects**  
 📬 Reach me at **spariharmuskan1106@gmail.com**
 
 ---
 
 ## 🏆 Achievements
 
-- 👑 Solved **1000+ coding problems** (Java)
-- 🏅 **Top 8%** on LeetCode (Rating: **1700+**)
-- 🟨 **5⭐ in Java** and **Problem Solving** on HackerRank
-- 🧾 Scored **95.25% in Intermediate**
+- 👑 Solved **1000+ Data Structures & Algorithms problems**, primarily in **Java**
+- 🚀 Ranked in **Top 8% on LeetCode** (Rating: **1700+**)
+- ⭐ Achieved **5⭐ in Java** and **5⭐ in Problem Solving** on HackerRank
+- 🥇 Consistently performed well in **college-level coding contests**
+- 🧾 Scored **95.25% in Intermediate (Class XII)**
 
 ---
+
+## 🚀 Currently Exploring & Building
+
+- 🌱 Deepening expertise in **Spring Boot ecosystem** (JPA, Hibernate, exception handling)  
+- 🛠️ Building **backend-first applications** with production-grade practices  
+- 🤖 Exploring **AI/ML integration** into web applications  
+- 📈 Improving system design thinking for **scalable, real-world use cases**  
+
+---
+
+## 💡 What You Can Expect From Me
+
+- ✅ Ownership of features **end-to-end**
+- ⚡ Fast learner with strong fundamentals
+- 🤝 Clear communication & collaborative mindset
+- 🎯 Focus on writing **reliable, maintainable, and scalable software**
 
 ## 🛠️ Tech Stack
 
@@ -57,6 +76,7 @@
 ### 🚀 Frameworks & Tools  
 <p>  
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
@@ -136,15 +156,11 @@
 
 <div align="center">
 
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=11muskansingh&show_icons=true&theme=radical&rank_icon=github&custom_title=Muskan%27s%20GitHub%20Stats" width="48%" alt="GitHub Stats" />
-
-  <!-- Streak Stats -->
-  <img src="https://streak-stats.demolab.com?user=11muskansingh&theme=flames&date_format=M%20j%5B%2C%20Y%5D&border=DD2727" width="48%" alt="GitHub Streak" />
-
-  <!-- Top Languages (Donut Layout) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=11muskansingh&show_icons=true&theme=radical&rank_icon=github&custom_title=Muskan%27s%20GitHub%20Stats" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=11muskansingh&theme=flames" width="48%" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=11muskansingh&layout=donut&theme=radical&hide=css,html&langs_count=6" width="50%" alt="Top Languages by Donut" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=11muskansingh&layout=donut&theme=radical&langs_count=6" width="50%" />
+
 </div>
 
 ---
@@ -152,7 +168,7 @@
 ## 📈 GitHub Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=11muskansingh&theme=tokyo-night&hide_border=true" alt="GitHub Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=11muskansingh&theme=tokyo-night&hide_border=true" />
 </div>
 
 ---
